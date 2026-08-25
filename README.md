@@ -1,5 +1,7 @@
 # Understanding How Cloud Hosting Functions
 
+> 💡 **Original Publication:** This article was originally published on [Eccentrix Corner](https://www.eccentrix.ca/en/eccentrix-corner/how-cloud-hosting-functions/). Go there for the latest updates and to explore more technical content.
+
 Cloud hosting has revolutionized the way businesses manage data, applications, and services online. Unlike traditional hosting on physical servers, cloud hosting leverages virtual resources distributed across multiple servers. This method provides scalability, reliability, and flexibility, allowing businesses to meet their evolving needs efficiently. 
 
 ## What is Cloud Hosting? 
